@@ -1,0 +1,176 @@
+.CV_Left {
+    width: 350px;
+    height: 1500px;
+    background-color: rgb(244, 239, 236);
+    padding: 20px;
+    float: left;
+}
+.CV {
+    width: 1050px;
+    height: 1500px;
+    background-color: rgb(249, 249, 249);
+}
+.photo1 {
+    width: 300px; 
+    height: 300px;     
+}
+#photo {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    position: relative;    
+    top: 15%;
+    left: 20%;
+}
+.CV_Left1 {
+    width: 310px; 
+    height: 350px;
+}
+hr.allhr{
+    border-top: 4px solid rgb(185, 181, 181);
+  }
+p{
+    font-size: 25px;
+    font-weight: bold;
+    font-variant-caps:all-small-caps;
+    letter-spacing: 5px;
+}
+#icon{
+    font-size: 25px ;
+    padding: 5px;
+}
+.CV_Left1 span{
+    font-size: 19px;
+    font-weight: bold;
+}
+
+.CV_Left2 {
+    width: 310px; 
+    height: 350px;
+}
+#spanLeft2{
+    display: block;
+    font-size: 23px;
+    font-weight: bold;
+    padding: 10px;
+}
+.CV_Left3 {
+    width: 310px; 
+    height: 500px;
+}
+#ulLeft3{
+    font-size: 20px;
+    line-height: 1.5;
+    font-weight: bold;
+    padding: 45px;
+}
+.CV_Right {
+    float: left;
+    width: 700px;
+    height: 1500px;
+}
+.CV_Right1 {
+    width: 650px; 
+    height: 320px;
+    background-color: rgb(58, 58, 58);
+    position: relative;
+    left: 20px;
+}
+.CV_Right2 {
+    
+    width: 650px; 
+    height: 250px;
+    position: relative;
+    left: 20px;
+}
+.CV_Right3 {
+    
+    width: 650px; 
+    height: 850px;
+    position: relative;
+    left: 20px;
+    overflow: hidden;
+}
+.CV_Right11 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 600px; 
+    height: 200px;
+    position: relative;
+    top: 10%;
+    left: 5%;
+}
+.CV_Right12{
+    width: 650px; 
+    height: 50px;
+    position: relative;
+    top: 23%;
+    background-color: rgb(249, 249, 249);
+}
+.CV_Right11 span{
+    font-size: 40px;    
+    text-transform: uppercase;
+    color: white;
+    letter-spacing: 5px;
+    align-items: center;
+    border-right: 1px solid white;
+    border-left: 1px solid white;
+    border-bottom: 1px solid white;
+    border-top: 1px solid white;
+    padding: 25px;
+}
+.CV_Right11 span p{
+    color: white;
+    text-align: center;    
+    letter-spacing: 2px;
+    text-transform: lowercase;
+}
+.CV_Right2 span{    
+    display: flex;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+    padding: 15px;   
+}
+.CV_Right3 .CV_Right3_1{
+    line-height: 1;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 15px;
+}
+.CV_Right3 .CV_Right3_1 span{
+    font-size: 20px;
+    font-weight: bold;
+    padding: 15px;
+    font-style: italic;
+}
+.CV_Right3 span{
+    display: block;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 15px;
+}
+#ulright3{
+    font-size: 15px;
+    font-weight: bold;
+    padding: 30px;     
+}
+#pCV_Right13{
+    font-size: 25px;
+    font-weight: bold;
+    font-variant: normal;
+    letter-spacing: 5px;
+    text-transform: none;
+    text-align: center;
+    color: white;
+}
+.CV_Right13 {
+    width: 400px; 
+    height: 50px;
+    background-color: rgb(58, 58, 58);
+    position: relative;
+    top: -26%;
+    left: 20%;
+}
